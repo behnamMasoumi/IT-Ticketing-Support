@@ -34,6 +34,7 @@ http://hr.ben.local
 * Confirmed the HR website loaded successfully.
 
 ![HR dns record added to the domain](images/06%20-%20Adding%20the%20HR%20DNS%20record%20to%20ben.local.png)
+![Flushing the DNS - Testing using nslookup](images/07%20-%20nslookup%20the%20domain%20name%20after%20flushing%20the%20dns.png)
 ![Website is now loading successfully](images/08%20-%20Verifying%20the%20DNS%20resolution%20works%20properly.png)
 
 ## Skills Demonstrated
