@@ -44,7 +44,7 @@ Steve was not a member of the security group responsible for granting access to 
 * Logged out and back into the workstation.
 * Confirmed Steve could successfully access the Finance folder.
 
-![User added to the security group - problem solved](07-User-added-to-the-Finance-Group.png)
+![User added to the security group problem solved](07-User-added-to-the-Finance-Group.png)
 
 ## Skills Demonstrated
 
