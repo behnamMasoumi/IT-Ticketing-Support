@@ -20,7 +20,7 @@ Steve reported receiving an **Access Denied** error when accessing:
 
 The issue was reproduced by testing access while logged in as the affected user.
 
-(images/03-Issue-with-accessing-the-finance-folder.png)
+![Finance folder access issue](images/03-Issue-with-accessing-the-finance-folder.png)
 
 ## Investigation
 
