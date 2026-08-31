@@ -32,6 +32,8 @@ The issue was reproduced by testing access while logged in as the affected user.
 
 The folder permissions were correctly configured, but Steve was missing from the **Finance security group**.
 
+![User not a member of the security group](images/04-User-not-a-member-of-the-Finance-Group.png)
+
 ## Root Cause
 
 Steve was not a member of the security group responsible for granting access to the Finance shared folder.
